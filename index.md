@@ -8,7 +8,6 @@ lang: en
 document.addEventListener("DOMContentLoaded", function() {
     let userLang = navigator.language || navigator.userLanguage;
     userLang = userLang.split('-')[0];
-    console.log('@@@ ' + userLang);
 
     const supportedLanguages = ['ko'];
 
