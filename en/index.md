@@ -76,6 +76,6 @@ To exercise these rights, you may contact us through the details provided below.
 
 ## Contact Information
 
-If you have any questions about this Privacy Policy, please contact us at ninewands.studios@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at [ninewands.studios@gmail.com](mailto:ninewands.studios@gmail.com).
 
 We are committed to addressing privacy-related concerns promptly and transparently.
