@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ninewands Privacy Policy
+title:
 lang: en
 ---
 
