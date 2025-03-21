@@ -16,7 +16,7 @@ We may update this Privacy Policy periodically. If any changes are made, we will
 
 We collect certain types of personal data to provide and improve our services. The categories of data we collect and their purposes are as follows:
 
-* Email Address and Nickname: Used for user authentication, identification, and account management.
+* Nickname: Used for user authentication, identification, and account management.
 * Gameplay Logs: Collected to improve service quality and detect fraudulent activities.
 * Event Data: Used to enhance service performance and user experience. This data is anonymized and cannot be used to identify users.
 
@@ -24,7 +24,7 @@ We collect certain types of personal data to provide and improve our services. T
 
 We collect personal data through the following methods:
 
-* Email Address and Nickname: Collected when users sign up for an account.
+* Nickname: Collected when users sign up for an account.
 * Gameplay Logs: Automatically recorded when users interact with our services.
 * Event Data: Automatically recorded when users interact with our services. Event data is stored in an anonymized format to prevent user identification.
 
@@ -32,7 +32,7 @@ We collect personal data through the following methods:
 
 We retain personal data only for as long as necessary to fulfill the purposes outlined in this policy or to comply with legal obligations. The retention periods for specific data types are as follows:
 
-* Email Address and Nickname: Stored until the user deletes their account.
+* Nickname: Stored until the user deletes their account.
 * Gameplay Logs: Stored for 30 days or until account deletion.
 * Event Data: Stored for a period of two months.
 
@@ -41,8 +41,10 @@ We retain personal data only for as long as necessary to fulfill the purposes ou
 We may share certain personal data with trusted third-party service providers to ensure seamless service delivery. The entities and their respective purposes are:
 
 * Amazon Web Services (AWS): Used for cloud-based service hosting and data storage.
-* Firebase (Google LLC): Facilitates user authentication and security management.
-* Google Analytics: Collects anonymized event data to analyze and improve service performance.
+* Google Analytics (Google LLC): Collects anonymized event data to analyze and improve service performance.
+* OpenAI: Used to analyze user messages so that AI can better understand and respond.
+* Gemini (Google LLC): Used to analyze user messages so that AI can better understand and respond.
+* Anthropic: Used to analyze user messages so that AI can better understand and respond.
 
 We ensure that any third-party providers adhere to stringent data protection standards to safeguard user data.
 
@@ -51,8 +53,10 @@ We ensure that any third-party providers adhere to stringent data protection sta
 To provide our services, we may transfer and store your personal data on servers in other countries. Your data may be processed in the following jurisdictions:
 
 * AWS (Amazon Web Services) - United States: Data storage and service operations.
-* Firebase (Google LLC) - United States: User authentication and security management.
 * Google Analytics (Google LLC) - United States: Anonymous event data collection and analysis.
+* OpenAI – United States: Service operations.
+* Gemini (Google LLC) – United States: Service operations.
+* Anthropic – United States: Service operations.
 
 When transferring data internationally, we implement appropriate security measures such as encryption and access controls to protect your data. You also have the right to request the deletion of your personal data at any time.
 
